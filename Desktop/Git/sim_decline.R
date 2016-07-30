@@ -1,5 +1,8 @@
 library(MASS)
 library(MASS)
+library(MASS)
+
+llalala
 
 mu <- c(1, 0.75, -1, -2)
 Sigma <- matrix(c(
